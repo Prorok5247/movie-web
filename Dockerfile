@@ -4,7 +4,7 @@ ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
 RUN corepack enable
 
-# Install git
+# Install gi
 RUN apk add --no-cache git
 
 COPY package.json ./
