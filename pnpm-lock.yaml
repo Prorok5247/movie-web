@@ -23,7 +23,7 @@ dependencies:
     version: 1.0.3
   '@movie-web/providers':
     specifier: ^2.3.0
-    version: 2.3.0
+    version: Prorok5247/mw-providers
   '@noble/hashes':
     specifier: ^1.3.3
     version: 1.3.3
